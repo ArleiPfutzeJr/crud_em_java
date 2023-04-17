@@ -8,6 +8,9 @@ Este projeto é uma demonstração básica de um CRUD, que é uma funcionalidade
 O projeto de CRUD possui as seguintes funcionalidades básicas:
 
 Criar: Os usuários podem adicionar novos itens à lista usando o formulário de criação.
+
 Ler: Os usuários podem visualizar a lista completa de itens existentes.
+
 Atualizar: Os usuários podem editar e atualizar os itens existentes usando o formulário de edição.
+
 Excluir: Os usuários podem remover itens existentes da lista.
